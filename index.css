@@ -1,0 +1,27 @@
+body  {
+    padding: 2%;
+}
+
+.calculatorForm {
+    width: 20%;
+}
+
+.form-select {
+    margin-bottom: 1.5%;
+}
+
+#AddedMachines {
+    margin-top: 1.5%;
+}
+
+#AddedMachines, #AddedMachines td {
+    border: 1px solid black;
+}
+
+#AddedMachines td {
+    padding: 7px;
+}
+
+#sumUp {
+    border-top: 4px double black;
+}

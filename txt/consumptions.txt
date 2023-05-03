@@ -1,0 +1,11 @@
+alapjarat 5
+mosogatogep 1.2
+suto 1.3
+fozolap 1.4
+mosogep 7
+lentiTv 0.1
+fentiTv 7
+laptopToltes 7
+telefonToltes 7
+paraelszivo 7
+klima 7
